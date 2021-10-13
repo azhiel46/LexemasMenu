@@ -16,8 +16,9 @@ namespace MenuLexemas
 
                 Console.WriteLine("Digite una opcion: ");
                 opcion = Convert.ToInt32(Console.ReadLine());
-                
 
+
+                //SWITCH TO LEXEMAS WORDS
                 switch(opcion)
                 {
                     case 1:
