@@ -1,0 +1,14 @@
+C:\Users\AZIEL\Documents\Devel\MenuLexemas\MenuLexemas\bin\Debug\netcoreapp3.1\MenuLexemas.exe
+C:\Users\AZIEL\Documents\Devel\MenuLexemas\MenuLexemas\bin\Debug\netcoreapp3.1\MenuLexemas.deps.json
+C:\Users\AZIEL\Documents\Devel\MenuLexemas\MenuLexemas\bin\Debug\netcoreapp3.1\MenuLexemas.runtimeconfig.json
+C:\Users\AZIEL\Documents\Devel\MenuLexemas\MenuLexemas\bin\Debug\netcoreapp3.1\MenuLexemas.runtimeconfig.dev.json
+C:\Users\AZIEL\Documents\Devel\MenuLexemas\MenuLexemas\bin\Debug\netcoreapp3.1\MenuLexemas.dll
+C:\Users\AZIEL\Documents\Devel\MenuLexemas\MenuLexemas\bin\Debug\netcoreapp3.1\MenuLexemas.pdb
+C:\Users\AZIEL\Documents\Devel\MenuLexemas\MenuLexemas\obj\Debug\netcoreapp3.1\MenuLexemas.csproj.AssemblyReference.cache
+C:\Users\AZIEL\Documents\Devel\MenuLexemas\MenuLexemas\obj\Debug\netcoreapp3.1\MenuLexemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZIEL\Documents\Devel\MenuLexemas\MenuLexemas\obj\Debug\netcoreapp3.1\MenuLexemas.AssemblyInfoInputs.cache
+C:\Users\AZIEL\Documents\Devel\MenuLexemas\MenuLexemas\obj\Debug\netcoreapp3.1\MenuLexemas.AssemblyInfo.cs
+C:\Users\AZIEL\Documents\Devel\MenuLexemas\MenuLexemas\obj\Debug\netcoreapp3.1\MenuLexemas.csproj.CoreCompileInputs.cache
+C:\Users\AZIEL\Documents\Devel\MenuLexemas\MenuLexemas\obj\Debug\netcoreapp3.1\MenuLexemas.dll
+C:\Users\AZIEL\Documents\Devel\MenuLexemas\MenuLexemas\obj\Debug\netcoreapp3.1\MenuLexemas.pdb
+C:\Users\AZIEL\Documents\Devel\MenuLexemas\MenuLexemas\obj\Debug\netcoreapp3.1\MenuLexemas.genruntimeconfig.cache
