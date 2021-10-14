@@ -9,6 +9,7 @@ namespace MenuLexemas
             int opcion = 0;
             do
             {
+
                 Console.WriteLine("Menu de Opciones");
                 Console.WriteLine("\n" +
                     "\n 1.-Lista de Palabras" +
@@ -44,46 +45,55 @@ namespace MenuLexemas
                             break;
                             case 2:
                                 Console.WriteLine("\n Lexema: -PRE-" +
+                                    "\n Significado del Lexema:  indica prioridad, previo a, previamente o antes de."+
                                     "\n Palabra: Precolombino" +
                                     "\n PRE-CO-LOM-BI-NO");
                                 break;
                             case 3:
                                 Console.WriteLine("\n Lexema: -PRE-" +
+                                     "\n Significado del Lexema:  indica prioridad, previo a, previamente o antes de." +
                                     "\n Palabra: Predeporte" +
                                     "\n PRE-DE-POR-TE");
                                 break;
                             case 4:
                                 Console.WriteLine("\n Lexema: -PRE-" +
+                                     "\n Significado del Lexema:  indica prioridad, previo a, previamente o antes de." +
                                     "\n Palabra: Predeterminar" +
                                     "\n PRE-DE-TER-MI-NAR");
                                 break;
                             case 5:
                                 Console.WriteLine("\n Lexema: -PRE-" +
+                                     "\n Significado del Lexema:  indica prioridad, previo a, previamente o antes de." +
                                     "\n Palabra: Predominar" +
                                     "\n PRE-DO-MI-NAR");
                                 break;
                             case 6:
                                 Console.WriteLine("\n Lexema: -PRE-" +
+                                     "\n Significado del Lexema:  indica prioridad, previo a, previamente o antes de." +
                                     "\n Palabra: Predominio" +
                                     "\n PRE-DO-MI-NIO");
                                 break;
                             case 7:
                                 Console.WriteLine("\n Lexema: -PRE-" +
+                                     "\n Significado del Lexema:  indica prioridad, previo a, previamente o antes de." +
                                     "\n Palabra: Preeminencia" +
                                     "\n PRE-MI-NEN-CIA");
                                 break;
                             case 8:
                                 Console.WriteLine("\n Lexema: -PRE-" +
+                                     "\n Significado del Lexema:  indica prioridad, previo a, previamente o antes de." +
                                     "\n Palabra: Preescolar" +
                                     "\n PRE-ES-CO-LAR");
                                 break;
                             case 9:
                                 Console.WriteLine("\n Lexema: -PRE-" +
+                                     "\n Significado del Lexema:  indica prioridad, previo a, previamente o antes de." +
                                     "\n Palabra: Prehistoria" +
                                     "\n PRE-HIS-TO-RIA");
                                 break;
                             case 10:
                                 Console.WriteLine("\n Lexema: -PRE-" +
+                                     "\n Significado del Lexema:  indica prioridad, previo a, previamente o antes de." +
                                     "\n Palabra: Prejubilar" +
                                     "\n PRE-JU-BI-LAR");
                                 break;
